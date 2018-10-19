@@ -1,0 +1,45 @@
+body{
+	background-image: url("Ondas.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+fieldset{
+	border: 2px solid #666666;
+	background-color: #cccbbb;
+	border-radius: 20px;
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto; 
+	padding: 5px;
+}
+
+legend{
+	border: 2px solid #fa0202;
+	background-color: #fa0202;
+	border-radius: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0px 0px 40px #cb2512;
+	font-family: 'Comic Sans MS';
+	padding: 5px;
+}
+
+
+input{
+	border-radius: 5px;
+
+}
+.titulo{
+		float: left;
+		width: 59px;
+}
+
+div{
+	margin: 10px;
+	width: 70%;
+}
+
+.centralizar{
+	margin-right: auto;
+	margin-left: auto;
+}
